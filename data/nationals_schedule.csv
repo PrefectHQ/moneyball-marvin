@@ -1,0 +1,165 @@
+game_date,game_id,home_team,home_team_id,away_team,away_team_id,venue
+2024-03-28,746737,Cincinnati Reds,113,Washington Nationals,120,Great American Ball Park
+2024-03-30,746736,Cincinnati Reds,113,Washington Nationals,120,Great American Ball Park
+2024-03-31,746739,Cincinnati Reds,113,Washington Nationals,120,Great American Ball Park
+2024-04-01,744875,Washington Nationals,120,Pittsburgh Pirates,134,Nationals Park
+2024-04-03,744869,Washington Nationals,120,Pittsburgh Pirates,134,Nationals Park
+2024-04-04,744870,Washington Nationals,120,Pittsburgh Pirates,134,Nationals Park
+2024-04-05,744874,Washington Nationals,120,Philadelphia Phillies,143,Nationals Park
+2024-04-06,744873,Washington Nationals,120,Philadelphia Phillies,143,Nationals Park
+2024-04-07,744871,Washington Nationals,120,Philadelphia Phillies,143,Nationals Park
+2024-04-08,745363,San Francisco Giants,137,Washington Nationals,120,Oracle Park
+2024-04-09,745357,San Francisco Giants,137,Washington Nationals,120,Oracle Park
+2024-04-10,745355,San Francisco Giants,137,Washington Nationals,120,Oracle Park
+2024-04-12,745679,Oakland Athletics,133,Washington Nationals,120,Oakland Coliseum
+2024-04-13,745676,Oakland Athletics,133,Washington Nationals,120,Oakland Coliseum
+2024-04-14,745681,Oakland Athletics,133,Washington Nationals,120,Oakland Coliseum
+2024-04-15,746158,Los Angeles Dodgers,119,Washington Nationals,120,Dodger Stadium
+2024-04-16,746157,Los Angeles Dodgers,119,Washington Nationals,120,Dodger Stadium
+2024-04-17,746159,Los Angeles Dodgers,119,Washington Nationals,120,Dodger Stadium
+2024-04-19,744872,Washington Nationals,120,Houston Astros,117,Nationals Park
+2024-04-20,744865,Washington Nationals,120,Houston Astros,117,Nationals Park
+2024-04-21,744866,Washington Nationals,120,Houston Astros,117,Nationals Park
+2024-04-23,744863,Washington Nationals,120,Los Angeles Dodgers,119,Nationals Park
+2024-04-24,744864,Washington Nationals,120,Los Angeles Dodgers,119,Nationals Park
+2024-04-25,744867,Washington Nationals,120,Los Angeles Dodgers,119,Nationals Park
+2024-04-26,746078,Miami Marlins,146,Washington Nationals,120,loanDepot park
+2024-04-27,746075,Miami Marlins,146,Washington Nationals,120,loanDepot park
+2024-04-28,746077,Miami Marlins,146,Washington Nationals,120,loanDepot park
+2024-04-29,746074,Miami Marlins,146,Washington Nationals,120,loanDepot park
+2024-04-30,745018,Texas Rangers,140,Washington Nationals,120,Globe Life Field
+2024-05-01,745023,Texas Rangers,140,Washington Nationals,120,Globe Life Field
+2024-05-02,745021,Texas Rangers,140,Washington Nationals,120,Globe Life Field
+2024-05-03,744868,Washington Nationals,120,Toronto Blue Jays,141,Nationals Park
+2024-05-04,744862,Washington Nationals,120,Toronto Blue Jays,141,Nationals Park
+2024-05-05,744861,Washington Nationals,120,Toronto Blue Jays,141,Nationals Park
+2024-05-07,744859,Washington Nationals,120,Baltimore Orioles,110,Nationals Park
+2024-05-08,744858,Washington Nationals,120,Baltimore Orioles,110,Nationals Park
+2024-05-10,746964,Boston Red Sox,111,Washington Nationals,120,Fenway Park
+2024-05-11,746963,Boston Red Sox,111,Washington Nationals,120,Fenway Park
+2024-05-12,746965,Boston Red Sox,111,Washington Nationals,120,Fenway Park
+2024-05-13,746799,Chicago White Sox,145,Washington Nationals,120,Guaranteed Rate Field
+2024-05-14,746796,Chicago White Sox,145,Washington Nationals,120,Guaranteed Rate Field
+2024-05-14,746799,Chicago White Sox,145,Washington Nationals,120,Guaranteed Rate Field
+2024-05-15,746795,Chicago White Sox,145,Washington Nationals,120,Guaranteed Rate Field
+2024-05-17,745579,Philadelphia Phillies,143,Washington Nationals,120,Citizens Bank Park
+2024-05-18,745581,Philadelphia Phillies,143,Washington Nationals,120,Citizens Bank Park
+2024-05-19,745577,Philadelphia Phillies,143,Washington Nationals,120,Citizens Bank Park
+2024-05-20,744857,Washington Nationals,120,Minnesota Twins,142,Nationals Park
+2024-05-21,744860,Washington Nationals,120,Minnesota Twins,142,Nationals Park
+2024-05-22,744856,Washington Nationals,120,Minnesota Twins,142,Nationals Park
+2024-05-24,744853,Washington Nationals,120,Seattle Mariners,136,Nationals Park
+2024-05-25,744851,Washington Nationals,120,Seattle Mariners,136,Nationals Park
+2024-05-26,744855,Washington Nationals,120,Seattle Mariners,136,Nationals Park
+2024-05-27,747118,Atlanta Braves,144,Washington Nationals,120,Truist Park
+2024-05-28,747115,Atlanta Braves,144,Washington Nationals,120,Truist Park
+2024-05-29,747117,Atlanta Braves,144,Washington Nationals,120,Truist Park
+2024-05-30,747114,Atlanta Braves,144,Washington Nationals,120,Truist Park
+2024-05-31,746635,Cleveland Guardians,114,Washington Nationals,120,Progressive Field
+2024-06-01,746629,Cleveland Guardians,114,Washington Nationals,120,Progressive Field
+2024-06-02,746632,Cleveland Guardians,114,Washington Nationals,120,Progressive Field
+2024-06-03,744854,Washington Nationals,120,New York Mets,121,Nationals Park
+2024-06-04,744850,Washington Nationals,120,New York Mets,121,Nationals Park
+2024-06-05,744852,Washington Nationals,120,New York Mets,121,Nationals Park
+2024-06-06,744844,Washington Nationals,120,Atlanta Braves,144,Nationals Park
+2024-06-07,744845,Washington Nationals,120,Atlanta Braves,144,Nationals Park
+2024-06-08,744848,Washington Nationals,120,Atlanta Braves,144,Nationals Park
+2024-06-09,744849,Washington Nationals,120,Atlanta Braves,144,Nationals Park
+2024-06-11,746464,Detroit Tigers,116,Washington Nationals,120,Comerica Park
+2024-06-12,746462,Detroit Tigers,116,Washington Nationals,120,Comerica Park
+2024-06-13,746465,Detroit Tigers,116,Washington Nationals,120,Comerica Park
+2024-06-14,744847,Washington Nationals,120,Miami Marlins,146,Nationals Park
+2024-06-15,744846,Washington Nationals,120,Miami Marlins,146,Nationals Park
+2024-06-16,744839,Washington Nationals,120,Miami Marlins,146,Nationals Park
+2024-06-18,744843,Washington Nationals,120,Arizona Diamondbacks,109,Nationals Park
+2024-06-19,744842,Washington Nationals,120,Arizona Diamondbacks,109,Nationals Park
+2024-06-20,744841,Washington Nationals,120,Arizona Diamondbacks,109,Nationals Park
+2024-06-21,746540,Colorado Rockies,115,Washington Nationals,120,Coors Field
+2024-06-22,746541,Colorado Rockies,115,Washington Nationals,120,Coors Field
+2024-06-23,746536,Colorado Rockies,115,Washington Nationals,120,Coors Field
+2024-06-24,745397,San Diego Padres,135,Washington Nationals,120,Petco Park
+2024-06-25,745399,San Diego Padres,135,Washington Nationals,120,Petco Park
+2024-06-26,745400,San Diego Padres,135,Washington Nationals,120,Petco Park
+2024-06-28,745070,Tampa Bay Rays,139,Washington Nationals,120,Tropicana Field
+2024-06-29,745071,Tampa Bay Rays,139,Washington Nationals,120,Tropicana Field
+2024-06-30,745072,Tampa Bay Rays,139,Washington Nationals,120,Tropicana Field
+2024-07-01,744840,Washington Nationals,120,New York Mets,121,Nationals Park
+2024-07-02,744838,Washington Nationals,120,New York Mets,121,Nationals Park
+2024-07-03,744837,Washington Nationals,120,New York Mets,121,Nationals Park
+2024-07-04,744834,Washington Nationals,120,New York Mets,121,Nationals Park
+2024-07-05,744836,Washington Nationals,120,St. Louis Cardinals,138,Nationals Park
+2024-07-06,744835,Washington Nationals,120,St. Louis Cardinals,138,Nationals Park
+2024-07-07,744832,Washington Nationals,120,St. Louis Cardinals,138,Nationals Park
+2024-07-08,744833,Washington Nationals,120,St. Louis Cardinals,138,Nationals Park
+2024-07-09,745803,New York Mets,121,Washington Nationals,120,Citi Field
+2024-07-10,745796,New York Mets,121,Washington Nationals,120,Citi Field
+2024-07-11,745799,New York Mets,121,Washington Nationals,120,Citi Field
+2024-07-12,745965,Milwaukee Brewers,158,Washington Nationals,120,American Family Field
+2024-07-13,745963,Milwaukee Brewers,158,Washington Nationals,120,American Family Field
+2024-07-14,745962,Milwaukee Brewers,158,Washington Nationals,120,American Family Field
+2024-07-19,744829,Washington Nationals,120,Cincinnati Reds,113,Nationals Park
+2024-07-20,744830,Washington Nationals,120,Cincinnati Reds,113,Nationals Park
+2024-07-21,744831,Washington Nationals,120,Cincinnati Reds,113,Nationals Park
+2024-07-23,744828,Washington Nationals,120,San Diego Padres,135,Nationals Park
+2024-07-24,744824,Washington Nationals,120,San Diego Padres,135,Nationals Park
+2024-07-25,744827,Washington Nationals,120,San Diego Padres,135,Nationals Park
+2024-07-26,745146,St. Louis Cardinals,138,Washington Nationals,120,Busch Stadium
+2024-07-27,745150,St. Louis Cardinals,138,Washington Nationals,120,Busch Stadium
+2024-07-28,745145,St. Louis Cardinals,138,Washington Nationals,120,Busch Stadium
+2024-07-29,747172,Arizona Diamondbacks,109,Washington Nationals,120,Chase Field
+2024-07-30,747167,Arizona Diamondbacks,109,Washington Nationals,120,Chase Field
+2024-07-31,747170,Arizona Diamondbacks,109,Washington Nationals,120,Chase Field
+2024-08-02,744825,Washington Nationals,120,Milwaukee Brewers,158,Nationals Park
+2024-08-03,744823,Washington Nationals,120,Milwaukee Brewers,158,Nationals Park
+2024-08-04,744826,Washington Nationals,120,Milwaukee Brewers,158,Nationals Park
+2024-08-05,744821,Washington Nationals,120,San Francisco Giants,137,Nationals Park
+2024-08-06,744817,Washington Nationals,120,San Francisco Giants,137,Nationals Park
+2024-08-07,744822,Washington Nationals,120,San Francisco Giants,137,Nationals Park
+2024-08-08,744819,Washington Nationals,120,San Francisco Giants,137,Nationals Park
+2024-08-09,744818,Washington Nationals,120,Los Angeles Angels,108,Nationals Park
+2024-08-10,744820,Washington Nationals,120,Los Angeles Angels,108,Nationals Park
+2024-08-11,744816,Washington Nationals,120,Los Angeles Angels,108,Nationals Park
+2024-08-13,747004,Baltimore Orioles,110,Washington Nationals,120,Oriole Park at Camden Yards
+2024-08-14,747000,Baltimore Orioles,110,Washington Nationals,120,Oriole Park at Camden Yards
+2024-08-15,745545,Philadelphia Phillies,143,Washington Nationals,120,Citizens Bank Park
+2024-08-16,745542,Philadelphia Phillies,143,Washington Nationals,120,Citizens Bank Park
+2024-08-17,745537,Philadelphia Phillies,143,Washington Nationals,120,Citizens Bank Park
+2024-08-18,745539,Philadelphia Phillies,143,Washington Nationals,120,Citizens Bank Park
+2024-08-20,744814,Washington Nationals,120,Colorado Rockies,115,Nationals Park
+2024-08-21,744812,Washington Nationals,120,Colorado Rockies,115,Nationals Park
+2024-08-22,744815,Washington Nationals,120,Colorado Rockies,115,Nationals Park
+2024-08-23,747080,Atlanta Braves,144,Washington Nationals,120,Truist Park
+2024-08-24,747077,Atlanta Braves,144,Washington Nationals,120,Truist Park
+2024-08-25,747078,Atlanta Braves,144,Washington Nationals,120,Truist Park
+2024-08-26,744813,Washington Nationals,120,New York Yankees,147,Nationals Park
+2024-08-27,744811,Washington Nationals,120,New York Yankees,147,Nationals Park
+2024-08-28,744809,Washington Nationals,120,New York Yankees,147,Nationals Park
+2024-08-30,744810,Washington Nationals,120,Chicago Cubs,112,Nationals Park
+2024-08-31,744808,Washington Nationals,120,Chicago Cubs,112,Nationals Park
+2024-09-01,744806,Washington Nationals,120,Chicago Cubs,112,Nationals Park
+2024-09-03,746020,Miami Marlins,146,Washington Nationals,120,loanDepot park
+2024-09-04,746019,Miami Marlins,146,Washington Nationals,120,loanDepot park
+2024-09-05,745451,Pittsburgh Pirates,134,Washington Nationals,120,PNC Park
+2024-09-06,745455,Pittsburgh Pirates,134,Washington Nationals,120,PNC Park
+2024-09-07,745455,Pittsburgh Pirates,134,Washington Nationals,120,PNC Park
+2024-09-07,745456,Pittsburgh Pirates,134,Washington Nationals,120,PNC Park
+2024-09-08,745453,Pittsburgh Pirates,134,Washington Nationals,120,PNC Park
+2024-09-10,744807,Washington Nationals,120,Atlanta Braves,144,Nationals Park
+2024-09-11,744804,Washington Nationals,120,Atlanta Braves,144,Nationals Park
+2024-09-12,744805,Washington Nationals,120,Miami Marlins,146,Nationals Park
+2024-09-13,744800,Washington Nationals,120,Miami Marlins,146,Nationals Park
+2024-09-14,744803,Washington Nationals,120,Miami Marlins,146,Nationals Park
+2024-09-15,744801,Washington Nationals,120,Miami Marlins,146,Nationals Park
+2024-09-16,745773,New York Mets,121,Washington Nationals,120,Citi Field
+2024-09-17,745772,New York Mets,121,Washington Nationals,120,Citi Field
+2024-09-18,745771,New York Mets,121,Washington Nationals,120,Citi Field
+2024-09-19,746823,Chicago Cubs,112,Washington Nationals,120,Wrigley Field
+2024-09-20,746824,Chicago Cubs,112,Washington Nationals,120,Wrigley Field
+2024-09-21,746826,Chicago Cubs,112,Washington Nationals,120,Wrigley Field
+2024-09-22,746825,Chicago Cubs,112,Washington Nationals,120,Wrigley Field
+2024-09-24,744802,Washington Nationals,120,Kansas City Royals,118,Nationals Park
+2024-09-25,744795,Washington Nationals,120,Kansas City Royals,118,Nationals Park
+2024-09-26,744796,Washington Nationals,120,Kansas City Royals,118,Nationals Park
+2024-09-27,744797,Washington Nationals,120,Philadelphia Phillies,143,Nationals Park
+2024-09-28,744799,Washington Nationals,120,Philadelphia Phillies,143,Nationals Park
+2024-09-29,744798,Washington Nationals,120,Philadelphia Phillies,143,Nationals Park
