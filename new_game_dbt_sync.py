@@ -11,6 +11,7 @@ import logging
 from enum import Enum
 from datetime import datetime
 from prefect.blocks.system import Secret
+import json
 
 secret_block_sf_password = Secret.load("snowflake-password")
 secret_block_sf_account = Secret.load("snowflake-account")
@@ -19,6 +20,8 @@ secret_block_dbt_api = Secret.load("dbt-api-key")
 dbt_api = secret_block_dbt_api.get()
 sf_password = secret_block_sf_password.get()
 sf_account = secret_block_sf_account.get()
+
+
 
 
 @task
@@ -390,10 +393,11 @@ class DbtCloudClient:
                 raise
 
 @flow(log_prints=True)
-def new_game_data_and_dbt_run():
-    
+def new_game_data_and_dbt_run(webhook_game_id):
+    data = json.loads(webhook_game_id)
+    webhook_given_game_id = data['game_id']
     #Grab boxscore of new game
-    batting_file, pitching_file, batting_df, pitching_df = process_single_game_boxscore()
+    batting_file, pitching_file, batting_df, pitching_df = process_single_game_boxscore(webhook_given_game_id)
     print(f"\nFiles created:")
     print(f"Batting stats: {batting_file}")
     print(f"Pitching stats: {pitching_file}")
@@ -478,8 +482,8 @@ def new_game_data_and_dbt_run():
 
 
 
-def main():
-    new_game_data_and_dbt_run()
+#def main():
+#   new_game_data_and_dbt_run()
 
 if __name__ == "__main__":
-    main()
+    new_game_data_and_dbt_run.serve(name="orchestrate-new-game")

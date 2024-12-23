@@ -345,7 +345,7 @@ def run_stuff():
     success_rows, num_chunks = upload_csv_to_snowflake(**config)
 
 if __name__ == "__main__":
-    run_stuff()
+    run_stuff.serve(name="historical-data-grab")
     
     
 
