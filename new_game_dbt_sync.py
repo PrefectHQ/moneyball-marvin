@@ -481,9 +481,5 @@ def new_game_data_and_dbt_run(webhook_game_id):
         logger.error(f"Unexpected error: {e}")
 
 
-
-#def main():
-#   new_game_data_and_dbt_run()
-
 if __name__ == "__main__":
     new_game_data_and_dbt_run.serve(name="orchestrate-new-game")
